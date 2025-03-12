@@ -5,7 +5,7 @@
 ---
 
 ## 🌟 Live Demo
-👉 **Experience the magic now:** [Click Here](https://holi-magic-wish.netlify.app)
+👉 **Experience the magic now:** [Click Here](https://aaru8092.github.io)
 
 ![Demo GIF](./img/output.png)
 
@@ -54,5 +54,5 @@
 
 📝 **MIT License** – Feel free to use, remix, and spread Holi joy in your own way!
 
-💖 Made with love by **Aoudumber Bade** 💖
+💖 Made with love by **Aryan Om** 💖
 
